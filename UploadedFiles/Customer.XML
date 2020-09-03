@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Cellphone>4234324</Cellphone>
+    <Name>dfdsf</Name>
+    <CustomerID>3970a2e9-449d-4789-a96d-5e0de04878fd</CustomerID>
+    <Surname>2ndwedwe</Surname>
+  </Customer>
+  <Customer>
+    <Cellphone>this cellphone</Cellphone>
+    <Name>client</Name>
+    <CustomerID>008e2406-efe7-47a3-9539-11123685ace1</CustomerID>
+    <Surname>added</Surname>
+  </Customer>
+  <Customer>
+    <Cellphone>Gosh</Cellphone>
+    <Name>push</Name>
+    <CustomerID>38ef574c-82e1-49e2-a301-ca94691bab03</CustomerID>
+    <Surname>oh my</Surname>
+  </Customer>
+  <Customer>
+    <Cellphone>werwerr</Cellphone>
+    <Name>derwer</Name>
+    <CustomerID>db05fa33-e96a-42dc-8f62-ac2e19a7b020</CustomerID>
+    <Surname>wrwer</Surname>
+  </Customer>
+  <Customer>
+    <Cellphone>0731015596</Cellphone>
+    <Name>pusha t</Name>
+    <CustomerID>f68ecd00-3065-4394-913e-3df61f443a1c</CustomerID>
+    <Surname>jgjgjhggjhg</Surname>
+  </Customer>
+</Customers>
