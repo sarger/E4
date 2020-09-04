@@ -17,6 +17,5 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)nunittestadapter\2.3.0\build\NUnitTestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunittestadapter\2.3.0\build\NUnitTestAdapter.props')" />
-    <Import Project="$(NuGetPackageRoot)nunit3testadapter\3.17.0\build\net35\NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\3.17.0\build\net35\NUnit3TestAdapter.props')" />
   </ImportGroup>
 </Project>

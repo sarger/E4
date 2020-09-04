@@ -99,3 +99,8 @@ namespace NumberLibrary.Test
     }
      
 }
+
+/**
+ * Test cases not complete
+ * Couldnt add when string ends with '/n'
+ * **/

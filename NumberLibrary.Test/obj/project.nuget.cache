@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bBC0YKOVbjpPEHajuUpVcwshn70jHOmKEWzPDFrYUu2Ar4ST1ulYNwAi1bcRUpuFMwd6UqTPfKBe0Ny8Ndfn+Q==",
+  "dgSpecHash": "auJFZW+nQ/Xc1UMA+JA3TXpOgmSsR09sZ2ry8wJSY6B/mmfszvi7/knVp0KYFVvnIe/HyvlIL21s4VA6QrO5AA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mnelisi Mthuli\\source\\repos\\GitE4x\\NumberLibrary.Test\\NumberLibrary.Test.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,6 @@
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\nunit\\3.9.0\\nunit.3.9.0.nupkg.sha512",
-    "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\nunittestadapter\\2.3.0\\nunittestadapter.2.3.0.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
@@ -19,16 +18,5 @@
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Mnelisi Mthuli\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'NUnit3TestAdapter 3.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "NUnit3TestAdapter",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

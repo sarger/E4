@@ -49,12 +49,6 @@
           "lib/netstandard1.6/nunit.framework.dll": {}
         }
       },
-      "NUnit3TestAdapter/3.17.0": {
-        "type": "package",
-        "build": {
-          "build/net35/NUnit3TestAdapter.props": {}
-        }
-      },
       "NUnitTestAdapter/2.3.0": {
         "type": "package",
         "build": {
@@ -358,30 +352,6 @@
         "lib/xamarin.ios/nunit.framework.xml",
         "nunit.3.9.0.nupkg.sha512",
         "nunit.nuspec"
-      ]
-    },
-    "NUnit3TestAdapter/3.17.0": {
-      "sha512": "I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
-      "type": "package",
-      "path": "nunit3testadapter/3.17.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "build/net35/NUnit3.TestAdapter.dll",
-        "build/net35/NUnit3.TestAdapter.pdb",
-        "build/net35/NUnit3TestAdapter.props",
-        "build/net35/nunit.engine.api.dll",
-        "build/net35/nunit.engine.core.dll",
-        "build/net35/nunit.engine.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp2.1/NUnit3TestAdapter.props",
-        "build/netcoreapp2.1/nunit.engine.api.dll",
-        "build/netcoreapp2.1/nunit.engine.core.dll",
-        "build/netcoreapp2.1/nunit.engine.dll",
-        "nunit3testadapter.3.17.0.nupkg.sha512",
-        "nunit3testadapter.nuspec"
       ]
     },
     "NUnitTestAdapter/2.3.0": {
@@ -934,7 +904,6 @@
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "NUnit >= 3.9.0",
-      "NUnit3TestAdapter >= 3.17.0",
       "NUnitTestAdapter >= 2.3.0",
       "StringCalculator >= 1.0.0"
     ]
@@ -995,10 +964,6 @@
             "target": "Package",
             "version": "[3.9.0, )"
           },
-          "NUnit3TestAdapter": {
-            "target": "Package",
-            "version": "[3.17.0, )"
-          },
           "NUnitTestAdapter": {
             "target": "Package",
             "version": "[2.3.0, )"
@@ -1017,17 +982,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'NUnit3TestAdapter 3.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "NUnit3TestAdapter",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }

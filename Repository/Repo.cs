@@ -9,7 +9,7 @@ using System.Xml.Linq;
 
 namespace E4App.Repository
 {
-    public class Repo
+    internal class Repo
     {
         private  string filename = HttpContext.Current.Server.MapPath("/UploadedFiles/Customer.XML");  
 
