@@ -1,0 +1,7 @@
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\Mnelisi Mthuli\source\repos\StringCalculator\obj\Debug\StringCalculator.pdb
